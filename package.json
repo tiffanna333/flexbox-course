@@ -1,0 +1,24 @@
+{
+  "name": "flexbox-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiffanna333/flexbox-course.git"
+  },
+  "author": "Cassidy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiffanna333/flexbox-course/issues"
+  },
+  "homepage": "https://github.com/tiffanna333/flexbox-course#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.2.0"
+  }
+}
